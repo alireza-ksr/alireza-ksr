@@ -1,0 +1,13 @@
+{
+    "name": "Alireza Kasiri",
+    "title": "Software Test Engineer",
+    "summary": "A motivated software test engineer, looking for more progress and challenges in software test automation.",
+    "skills": ["API Testing", "Automation", "Manual Testing","Java Script","Python","Selenium","Git","K6","Jira","Sql"],
+    "experience": ["Software Test Engineer at Company Fino","Software Test Engineer at Company Amitis","Software Test Engineer at Company Kowsar"],
+    "education": ["Bachelor . in Computer Software Engineer"],
+    "links": [
+      { "label": "GitHub", "url": "https://github.com/alireza-ksr" },
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/alireza-kasiri-252620213" }
+    ]
+  }
+  

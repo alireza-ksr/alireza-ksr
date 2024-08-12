@@ -1,0 +1,19 @@
+{
+  "name": "alireza-ksr",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "about my resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "alireza-ksr"
+  ],
+  "author": "alireza kasiri",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^8.0.1"
+  }
+}
